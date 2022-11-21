@@ -1,5 +1,5 @@
-###Hi there 👋
- - 👋 Hi, I’m Tran Van Phuong
+###Hi there 👋　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　👋 こんにちは
+ - 👋 Hi, I’m Tran Van Phuong　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　- チャン バン フォン　です。
  - 👀 I’m interested in Science and Programming
  - 🌱 I’m graduated Java boot camp course at CodeGym Jsc Viet Nam
  - 🌱 I’m still learning programming
